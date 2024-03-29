@@ -1,0 +1,9 @@
+Ubuntu 23.08
+
+Se projet a pour but de repproduire plusieurs fonctions pour les projets à venir.
+
+Un dossier test est rajouté pour pouvoir les tester.
+
+La commande make et make bonus à partir du dossier test permet de compiler le fichier main.c ainsi que la bibliothèque libft.
+
+Plus d'info dans Subject.
